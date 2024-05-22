@@ -1,0 +1,50 @@
+<style type="text/css">
+    p.p1 {
+        margin: 0.0px 0.0px 0.0px 0.0px;
+        font: 11.0px 'Helvetica Neue';
+        color: #000000
+    }
+
+    p.p2 {
+        margin: 0.0px 0.0px 0.0px 0.0px;
+        font: 11.0px 'Helvetica Neue';
+        min-height: 12.0px
+    }
+</style>
+<p>Last Updated: May 22, 2024</p>
+<p><br></p>
+<p>Welcome to FaceGlam, a makeup application designed to enhance your beauty experience. Your privacy is our top priority. This Privacy Policy explains how we handle any information you provide while using our app.</p>
+<p><br></p>
+<p>1. Information We Do Not Collect</p>
+<p><br></p>
+<p>We want to assure you that we do not collect, store, or share any personal data from our users. This includes, but is not limited to:</p>
+<p><br></p>
+<p>Personal Identification Information (PII) such as your name, email address, phone number, or physical address.</p>
+<p>Usage data or analytics.</p>
+<p>Photographic or video data.</p>
+<p>2. Use of TrueDepth API</p>
+<p><br></p>
+<p>Our app utilizes Apple&apos;s TrueDepth API to provide a more accurate and immersive makeup experience. Here&rsquo;s how we use this technology:</p>
+<p><br></p>
+<p>Face Mapping: The TrueDepth API helps us to map your facial features accurately so that the makeup application looks as realistic as possible.</p>
+<p>Real-Time Processing: All the processing is done in real-time on your device. None of the data captured by the TrueDepth API is sent to our servers or any third party.</p>
+<p>Data Security: The facial data used by the TrueDepth API stays on your device and is never stored or transmitted.</p>
+<p>3. No Data Storage</p>
+<p><br></p>
+<p>Since we do not collect any data, there is no storage of personal or non-personal data. All processes occur locally on your device.</p>
+<p><br></p>
+<p>4. Third-Party Services</p>
+<p><br></p>
+<p>Our app does not use any third-party services that might collect user data.</p>
+<p><br></p>
+<p>5. Changes to This Privacy Policy</p>
+<p><br></p>
+<p>We may update our Privacy Policy from time to time. Any changes will be posted on this page, and we will update the &quot;Last Updated&quot; date above.</p>
+<p><br></p>
+<p>6. Contact Us</p>
+<p><br></p>
+<p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+<p><br></p>
+<p>Email: info@nextdaysoft.com</p>
+<p>Address: F-19, Second Floor, Vatsalya Chambers, Opposite INOX Cinema Sapna Sangeeta Road 452001 Indore, India</p>
+<p>By using our app, you agree to this Privacy Policy. Thank you for choosing FaceGlam for your makeup needs.</p>
